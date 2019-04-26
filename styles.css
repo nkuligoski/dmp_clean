@@ -1,0 +1,24 @@
+body, html {
+  font-family: 'Lato', sans-serif;
+  background-image: url("landing-page.jpg");
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.duo_service {
+  position: relative;
+  top: 50%;
+  transform: translateY(-70%);
+  width: 50%;
+  padding: 20px 0px 20px 0px;
+  margin: 0 auto;
+  /*background-color: rgba(0, 0, 0, .95);
+  border-radius: 25px;*/
+  text-align: center;
+}
+
+.page_title { color: black; }
